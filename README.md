@@ -24,13 +24,13 @@ This project is a Java application and should be run using a Java-capable IDE or
 - “Run Code” or single-file execution modes may not work for this project because it is a multi-file Java application.
 - Use the IDE’s Java Run/Debug option instead.
 
-## Preview
+## Preview (Redirects to youtube video on click) 
 
-### Level 1
+### Level 1 Video
 
 [![Level 1 Gameplay](https://img.youtube.com/vi/qnh1-NjFfQE/0.jpg)](https://www.youtube.com/watch?v=qnh1-NjFfQE)
 
-### Level 2
+### Level 2 Video
 
 [![Level 2 Gameplay](https://img.youtube.com/vi/OI_Zta2kKTM/0.jpg)](https://www.youtube.com/watch?v=OI_Zta2kKTM)
 
